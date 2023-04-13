@@ -7,14 +7,21 @@ async function fetchOrders(){
         let output = "";
     
         
-        data.map((user)=>{
+        data.map((order)=>{
     
-            output +=`<div><h2>${user.login}</h2></div>`
+            output +=`<div class="order">
+            <h2>${order.pizza}</h2>
+            <p>${order.id}</p>
+            <p>${order.extra}</p>
+            <p>${order.ital}</p>
+            <p>${order.ar}</p>
+            <img src="${order.kep}"></img>
+            </div>`
         })
     
-        document.body.innerHTML = output;
+        result.innerHTML = output;
     
     
     }
     
-    fetchUsers();
+    fetchOrders();
