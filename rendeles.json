@@ -1,0 +1,51 @@
+[
+
+    {
+        "id": 1,
+        "pizza": "Hawaii",
+        "extra": "Kukorica",
+        "ital": "Pepsi zero",
+        "ar": 1500,
+        "kep": "https://images.pexels.com/photos/6937416/pexels-photo-6937416.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+        "id": 2,
+        "pizza": "Szalámis",
+        "extra": "Kukorica",
+        "ital": "Pepsi",
+        "ar": 1700,
+        "kep": "https://images.pexels.com/photos/6937416/pexels-photo-6937416.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+        "id": 3,
+        "pizza": "Songoku",
+        "extra": "Gomba",
+        "ital": "Fanta",
+        "ar": 1600,
+        "kep": "https://images.pexels.com/photos/6937416/pexels-photo-6937416.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+        "id": 4,
+        "pizza": "Amigo",
+        "extra": "Kukorica",
+        "ital": "Sprite",
+        "ar": 1500,
+        "kep": "https://images.pexels.com/photos/6937416/pexels-photo-6937416.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+        "id": 5,
+        "pizza": "Húsimádó",
+        "extra": "chili paprika",
+        "ital": "Pepsi zero",
+        "ar": 1500,
+        "kep": "https://images.pexels.com/photos/6937416/pexels-photo-6937416.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+        "id": 6,
+        "pizza": "Tenger Gyümölcsei",
+        "extra": "Kukorica, sonka",
+        "ital": "Pepsi",
+        "ar": 1500,
+        "kep": "https://images.pexels.com/photos/6937416/pexels-photo-6937416.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    }
+]
