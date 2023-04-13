@@ -11,10 +11,10 @@ async function fetchOrders(){
     
             output +=`<div class="order">
             <h2>${order.pizza}</h2>
-            <p>${order.id}</p>
-            <p>${order.extra}</p>
-            <p>${order.ital}</p>
-            <p>${order.ar}</p>
+            <p>Rendelési aznonosító: ${order.id}</p>
+            <p>Plusz feltét: ${order.extra}</p>
+            <p>Üditő: ${order.ital}</p>
+            <p>Ár: ${order.ar}</p>
             <img src="${order.kep}"></img>
             </div>`
         })
